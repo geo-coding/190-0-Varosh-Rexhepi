@@ -1,18 +1,19 @@
 # parcelat
 
 ```
-00191-0
-1588
-1580
-Rexhep (Muharrem) Krosa
-1012868550
-
 00190-0
 1242
 1290.3
 Rexhep (Muharrem) Krosa
 1012868550
 KODRA E MADHE
+
+00191-0
+1588
+1580
+Rexhep (Muharrem) Krosa
+1012868550
+
 
 
 00198-6
@@ -26,7 +27,7 @@ Rexhep (Muharrem) Krosa
 600
 Halit (Rrustem) Krosa
 1012452396
-KODRA E MADHE	
+KODRA E MADHE
 
 00198-3
 609
@@ -34,7 +35,7 @@ KODRA E MADHE
 Arben Krosa (Sahit)
 1012867936
 
-KODRA E MADHE	
+KODRA E MADHE
 
 ```
 # kerkesat
@@ -45,6 +46,8 @@ KODRA E MADHE
 Rexhep (Muharrem) Krosa
 1012868550
 Varosh
+$ dyfishet
+
 
 
 211/2025
