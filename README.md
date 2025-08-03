@@ -56,7 +56,9 @@ Rexhep (Muharrem) Krosa
 1012868550
 Varosh
 $ dyfishet
+1,2
 
+00190-0,00198-4,00198-3
 
 
 211/2025
