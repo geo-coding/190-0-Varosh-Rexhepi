@@ -4,13 +4,14 @@
 00190-0
 1242
 1290.3
+Akë (5)
 Rexhep (Muharrem) Krosa
 1012868550
 KODRA E MADHE
 
 Gjendja e vjetër			Gjendja e re		
 Nr.Parc	Siperfaqia		Nr.Parc	Siperfaqia	
-    00190-0	1290	m²	`00190-1	185	m²
+    00190-0	1290	m²	    00190-1	185	    m²
 			                00190-2	1105	m²
 Gjithsej	1290	m²	Gjithsej	1290	m²
 
