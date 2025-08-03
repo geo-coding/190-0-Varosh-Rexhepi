@@ -6,7 +6,7 @@
 1290.3
 +48
 35
-Akë (5)
+Arë (5)
 Rexhep (Muharrem) Krosa
 1012868550
 KODRA E MADHE
